@@ -1,0 +1,6 @@
+Electric vehicles are rapidly transforming the transportation landscape, offering a cleaner, more sustainable alternative to traditional fossil-fueled cars. As the world moves toward greener mobility solutions, data becomes an essential tool to understand and support this global transition.
+In my recent Python project, I dove into electric vehicle registration data to explore key trends and uncover insights about the most popular EV manufacturers on the road today. 📊
+Using pandas, I performed data cleaning and transformation to prepare the dataset for analysis. Then, with matplotlib, I brought those insights to life through clear and impactful visualizations—making it easier to interpret growth patterns and market preferences.
+From identifying leading brands to observing regional adoption trends, this project demonstrates the power of data science in telling meaningful stories and driving innovation in clean energy.
+It’s exciting to witness how technology and analytics come together to not only inform decisions but also help shape a more sustainable future.
+hashtag#Python hashtag#DataScience hashtag#ElectricVehicles hashtag#EVTrends hashtag#Visualization hashtag#CleanEnergy hashtag#Pandas hashtag#Matplotlib hashtag#Sustainability hashtag#MobilityInnovation
